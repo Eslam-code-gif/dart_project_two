@@ -55,7 +55,7 @@ The project is organized into several files to separate concerns:
   - `game_flow.dart`: Contains the core game loop, turn management, win/draw condition checks, and board update logic.
   - `display.dart`: Responsible for all console output related to the game board and player/score data.
   - `data.dart`: Acts as a central store for the game's state, including the board data, player information, scores, and turn counters.
-  - [cite\_start]`LICENSE`: Contains the MIT license for the project. [cite: 1]
+  - `LICENSE`: Contains the MIT license for the project.
 
 ## License
 
