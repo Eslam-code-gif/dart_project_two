@@ -25,11 +25,11 @@ You need to have the Dart SDK installed on your machine. You can find installati
 
 1.  Clone the repository to your local machine:
     ```sh
-    git clone <https://github.com/Eslam-code-gif/dart_project_two.git>
+    git clone https://github.com/Eslam-code-gif/dart_project_two.git
     ```
 2.  Navigate to the project directory:
     ```sh
-    cd <dart_project_two>
+    cd dart_project_two
     ```
 3.  Run the application from the command line:
     ```sh
