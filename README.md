@@ -59,8 +59,8 @@ The project is organized into several files to separate concerns:
 
 ## License
 
-[cite\_start]This project is licensed under the MIT License. [cite: 1] See the `LICENSE` file for more details.
+This project is licensed under the MIT License.See the `LICENSE` file for more details.
 
-[cite\_start]Copyright (c) 2025 Abdelrahim mohamed abdelrahim ibrahim (Eslam-code-gif) [cite: 1]
+Copyright (c) 2025 Abdelrahim mohamed abdelrahim ibrahim (Eslam-code-gif) 
 
-[cite\_start]The software is provided "as is", without any kind of warranty. [cite: 2] [cite\_start]The authors or copyright holders are not liable for any claim or damages arising from the use of this software. [cite: 3]
+The software is provided "as is", without any kind of warranty. The authors or copyright holders are not liable for any claim or damages arising from the use of this software.
